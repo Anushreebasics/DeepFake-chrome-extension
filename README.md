@@ -2,27 +2,24 @@
 
 ## Overview
 
-This project focuses on developing a deep learning-based solution for detecting facial manipulation in videos, commonly known as deep fakes. With the proliferation of deep fake technology, the need for robust detection methods has become increasingly critical to combat misinformation and safeguard the integrity of video content.
+The DeepFake Detection Chrome Extension provides users with real-time detection of deep fake videos while browsing the web. With the increasing spread of deep fake technology, it's essential to have tools that help users identify manipulated content and prevent the spread of misinformation.
 
 ## Features
 
-- Utilizes Convolutional Neural Networks (CNNs) for deep fake detection.
-- Ensemble approach with multiple CNN models.
-- Integration of attention mechanisms for interpretability and learning.
-- Compatible with publicly available datasets for evaluation and testing.
+- Real-time detection of deep fake videos embedded in webpages.
+- Uses advanced deep learning algorithms for accurate detection.
+- Provides visual indicators to users when a deep fake video is detected.
+- Lightweight and non-intrusive extension that seamlessly integrates into the browsing experience.
 
 ## Requirements
 
+- Google Chrome web browser
 - Python 3.x
 - TensorFlow
 - Keras
 - NumPy
 - OpenCV
 
-## Installation
+## Acknowledgments
 
-1. Clone the repository:
-
-```sh
-git clone https://github.com/yourusername/deepfake-detection.git
-cd deepfake-detection
+We would like to thank the contributors and researchers whose work has influenced this project. Special thanks to the creators of the deep fake detection algorithms and frameworks used in the extension.
