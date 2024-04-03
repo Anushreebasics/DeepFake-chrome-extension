@@ -1,4 +1,4 @@
-# FakeFree
+z# FakeFree
 
 ## Overview
 
@@ -20,6 +20,12 @@ The DeepFake Detection Chrome Extension provides users with real-time detection 
 - NumPy
 - OpenCV
 
+## files/folders to refer
+[Chrome extension](./extension)  
+[Model](/anuva.ipynb)
+[Server](/app.py)
+
 ## Acknowledgments
 
 We would like to thank the contributors and researchers whose work has influenced this project. Special thanks to the creators of the deep fake detection algorithms and frameworks used in the extension.
+
